@@ -42,5 +42,4 @@ reduce human stress thereby indirectly improving human resources.
 **Student Data**
 ![image](https://user-images.githubusercontent.com/94695634/175947900-27e7e8fb-0836-4d36-98b2-62820ba7f0d0.png)
 
-![](scrshots/5.jpg)
-![](scrshots/6.jpg)
+
