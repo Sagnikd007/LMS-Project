@@ -12,6 +12,7 @@ been removed to a large extent. And it is expected that this project will go
 a long way in satisfying user’s requirements. The computerization of the
 Library Management will not only improve the efficiency but will also
 reduce human stress thereby indirectly improving human resources.
+DOCUMENTATION IS DONE HERE BY FOLLOWING ALL THE 7 PHASES OF SDLC
 * Basic application to add,delete the books and student information (issued and returned books).
 * steps to use
   * run the .py file
