@@ -1,4 +1,17 @@
 # LibraryManagementSystem
+The “LIBRARY MANAGEMENT SYSTEM”
+process made computerized to reduce human errors and to increase
+the efficiency. The main focus of this project is to lessen human
+efforts. The maintenance of the records is made efficient, as all the
+records are stored in the SQLite database, through which data can be
+retrieved easily. The editing is also made simpler. The user has to just
+type in the required field and update the desired field. Our main aim of
+the project is to get the correct information about a particular student
+and books available in the library. The problems, which existed, have
+been removed to a large extent. And it is expected that this project will go
+a long way in satisfying user’s requirements. The computerization of the
+Library Management will not only improve the efficiency but will also
+reduce human stress thereby indirectly improving human resources.
 * Basic application to add,delete the books and student information (issued and returned books).
 * steps to use
   * run the .py file
